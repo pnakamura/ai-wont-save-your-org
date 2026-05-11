@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Eval results may contain sensitive outputs; opt-in to commit them per file
+evals/results/*
+!evals/results/.gitkeep
+
+# Local secrets — never commit
+.env
+.env.local
+*.key
+*.pem
+
+# Python (in case you add scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (in case you add tooling)
+node_modules/
+package-lock.json
