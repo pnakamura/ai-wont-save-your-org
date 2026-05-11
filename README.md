@@ -1,6 +1,6 @@
 # AI Won't Save Your Org — Starter Kit
 
-> Companion repository to the article [*AI Won't Save Your Org*](https://gist.github.com/YOUR-GIST-URL).
+> Companion repository to the article [*AI Won't Save Your Org*](https://gist.github.com/pnakamura/11865919fe849b6bbfaec272165c7f56).
 >
 > **A minimal, opinionated scaffold for the three things that actually predict AI success in organizations: knowledge, evaluation, and governance.**
 
